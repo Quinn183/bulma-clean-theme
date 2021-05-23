@@ -9,4 +9,5 @@ group :jekyll_plugins do
     gem "jekyll-paginate"
     gem "jekyll-seo-tag"
 end
+gem 'wdm', '~> 0.1.1'
 

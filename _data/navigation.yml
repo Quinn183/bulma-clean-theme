@@ -1,5 +1,17 @@
-- name: Pages
+- name: Experience
+  link: /experience/
+- name: Porfolio
+  link: /showcase/
+- name: Blog
   link: /#
+  dropdown:
+    - name: Life
+      link: /blog/
+    - name: Food
+      link: /example-recipe/
+    - name: People
+      link: /blog/
+- name: Reference
   dropdown:
     - name: Page With Sidebar
       link: /page-1/
@@ -29,9 +41,5 @@
       link: /gallery/
     - name: Recipe Page
       link: /example-recipe/
-- name: Products
-  link: /products/
-- name: Showcase
-  link: /showcase/
-- name: Blog
-  link: /blog/
+    - name: Blog
+      link: /blog/
