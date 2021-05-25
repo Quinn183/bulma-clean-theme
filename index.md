@@ -1,8 +1,11 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: LE THUY NGA
+subtitle: Về mình và những điều xung quanh🧡
+hero_image : img/hehe.png
+hero_link: /porfolio/
+hero_link_text: Find me here
 layout: page
-callouts: home_callouts
+gallery: example_gallery
 show_sidebar: false
 ---
 
@@ -10,25 +13,25 @@ show_sidebar: false
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
+[![Gem Version](https://badge.fury.io/rb.svg)](https://badge.fury.io/rb)
+![Gem](https://img.shields.io/gem/dt.svg)
 
 ## Ruby Gem
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
+The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems](https://rubygems.org/gems).
 
 ## GitHub Pages
 
 The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
 
 ```yml
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes
 ```
 
 ## Instructions
 
 For full instructions, please see the Readme at the GitHub repo:
-[https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md](https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md)
+[https://github.com/chrisrhymes/blob/master/README.md](https://github.com/chrisrhymes/blob/master/README.md)
 
 ## Page Layouts
 

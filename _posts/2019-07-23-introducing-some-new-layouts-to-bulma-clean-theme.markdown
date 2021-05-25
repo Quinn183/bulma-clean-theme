@@ -12,7 +12,7 @@ canonical_url: https://www.csrhymes.com/2019/07/23/introducing-some-new-layouts-
 ---
 
 
-I’ve been meaning to write about some of the new features I have been rolling out to my Jekyll theme, [Bulma Clean Theme](https://www.csrhymes.com/bulma-clean-theme/), for a while but I have only just managed to push the update for the landing page layout last weekend. This article provides some of the thinking behind the updates, as well as a brief introduction to how to get started. 
+I’ve been meaning to write about some of the new features I have been rolling out to my Jekyll theme, [Bulma Clean Theme](https://www.csrhymes.com/), for a while but I have only just managed to push the update for the landing page layout last weekend. This article provides some of the thinking behind the updates, as well as a brief introduction to how to get started. 
 
 ## Product Pages
 
@@ -104,7 +104,7 @@ The data file should follow the below format. The name is the customer name, the
     The product worked exactly as described.
 ```
 
-Example [product category and product pages](https://www.csrhymes.com/bulma-clean-theme/products/) can be seen on the theme’s demo site here if you want to take a look. 
+Example [product category and product pages](https://www.csrhymes.com/products/) can be seen on the theme’s demo site here if you want to take a look. 
 
 ## Landing Page Layout
 
@@ -156,7 +156,7 @@ callouts: example_callouts
 ---
 ```
 
-An example [landing page layout](https://www.csrhymes.com/bulma-clean-theme/landing/) can be seen in the theme’s demo site.
+An example [landing page layout](https://www.csrhymes.com/landing/) can be seen in the theme’s demo site.
 
 ## What do you think?
 

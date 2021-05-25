@@ -1,20 +1,22 @@
 # Site Settings
 lang: en
-title: Tyna's Site
+title: TYNA'S SITE
 tagline: Bulma Clean Theme
 email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+baseurl: 
 url: "https://www.csrhymes.com"
 permalink: pretty
 favicon: /favicon.png
-gh_sponsor: chrisrhymes
+navicon: /img/lover.png
+gh_sponsor: 
 #hide_share_buttons: true
 theme_color: '#333333'
 #fixed_navbar: top
 
-theme: bulma-clean-theme 
+# theme: bulma-clean-theme
+remote-theme: chrisrhymes
 
 paginate: 5
 paginate_path: "/blog/page:num"

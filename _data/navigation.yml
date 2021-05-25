@@ -1,7 +1,7 @@
 - name: Experience
   link: /experience/
 - name: Porfolio
-  link: /showcase/
+  link: /porfolio/
 - name: Blog
   link: /#
   dropdown:

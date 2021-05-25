@@ -4,12 +4,12 @@ title:  "Getting started with Bulma Clean Theme for Jekyll"
 date:   2019-02-09 20:00:07
 categories: development
 description: "Getting started with Bulma Clean Theme for Jekyll and using it with GitHub Pages"
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
+image: 'https://www.csrhymes.com/img.jpg'
 published: true
 canonical_url: https://www.csrhymes.com/development/2019/02/09/getting-started-with-bulma-clean-theme.html
 ---
 
-I have made a [theme for Jekyll](https://rubygems.org/gems/bulma-clean-theme) which is based on the Bulma frontend framework. It might look familiar, because I am also using it for this site. If you like the look of this theme then I thought I would write a little blog post about how to use it for your own site and how you can use it with GitHub Pages. 
+I have made a [theme for Jekyll](https://rubygems.org/gems) which is based on the Bulma frontend framework. It might look familiar, because I am also using it for this site. If you like the look of this theme then I thought I would write a little blog post about how to use it for your own site and how you can use it with GitHub Pages. 
 
 ## Getting started
 
@@ -124,11 +124,11 @@ Bulma is pretty handy in the way it converts the same HTML into a mobile / table
 
 ## Using bulma-clean-theme with Github Pages
 
-For the site to work with Github Pages, all you need to do is update the _config.yml so it uses remote_theme instead of theme and update it to chrisrhymes/bulma-clean-theme so it knows which GitHub repo to pull the theme from when it builds your site. 
+For the site to work with Github Pages, all you need to do is update the _config.yml so it uses remote_theme instead of theme and update it to chrisrhymes so it knows which GitHub repo to pull the theme from when it builds your site. 
 
 ```yaml
 #theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes
 ```
 
 And then push up your changes to Github as normal. 
