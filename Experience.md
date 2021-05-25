@@ -1,9 +1,9 @@
 ---
 title: Experiences
-subtitle: Fuck
+subtitle: 
 layout: page
 show_sidebar: false
 ---
 
 
-fuck you 
+*(placeholder)*
