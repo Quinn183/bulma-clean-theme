@@ -72,6 +72,6 @@ Love,
 
 Tyna lee.
 
-![image](/img/9.jpg) ![image](/img/3.jpg)
+![image](/img/9.jpg) ![image](/img/3.jpg) ![image](/img/6.jpg)
 
 
