@@ -1,30 +1,22 @@
-- title: Image Gallery Title
+- title: Sở thích của mình
   images:
-    - link: https://via.placeholder.com/400x225
-      large_link: https://via.placeholder.com/1200x675
+    - link: img/hobbii.jpg
+      large_link: img/hobbii.jpg
       alt: The alt text for the image
-      description: The image description
-      ratio: is-16by9
-    - link: https://via.placeholder.com/400x300
-      large_link: https://via.placeholder.com/1200x900
-      alt: The alt text for the image
-      description: The image description
+      description: Mỗi lần thấy đuối quá đi, cầm quyển sổ viết ra đỡ liền.
       ratio: is-4by3
-    - link: https://via.placeholder.com/400x300
-      large_link: https://via.placeholder.com/1200x900
+    - link: img/hobbi.jpg
+      large_link: img/hobbi.jpg
+      alt: 
+      description: Cố gắng 5 ngày/quyển sách như người Do Thái thôi nào.
+      ratio: is-4by3
+    - link: img/hobbiii.jpg
+      large_link: img/hobbiii.jpg
       alt: The alt text for the image
-      description: |-
-        ### A title
-
-        The *image* **description** can be longer and written in markdown too.
-
-        If you want to describe your image in more detail.
-
-        * Item 1
-        * Item 2
+      description: Yay Du lịch muôn năm. Bạn đi được bao nhiêu nước rồi?
       ratio: is-4by3
 
-- title: Second Image Gallery Title
+- title: Nga thích ăn gì
   images:
     - link: https://via.placeholder.com/800x450
       alt: The alt text for the image

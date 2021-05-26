@@ -14,7 +14,7 @@ show_sidebar: false
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
 [![Gem Version](https://badge.fury.io/rb.svg)](https://badge.fury.io/rb)
-![Gem](https://img.shields.io/gem/dt.svg)
+![Gem](img/hobbi.jpg)
 
 ## Ruby Gem
 

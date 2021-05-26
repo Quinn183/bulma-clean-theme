@@ -3,14 +3,7 @@
 - name: Porfolio
   link: /porfolio/
 - name: Blog
-  link: /#
-  dropdown:
-    - name: Life
-      link: /blog/
-    - name: Food
-      link: /example-recipe/
-    - name: People
-      link: /blog/
+  link: /blog/
 - name: Reference
   dropdown:
     - name: Page With Sidebar
