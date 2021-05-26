@@ -4,7 +4,7 @@ title:  "Thư gửi chị Tiên"
 date:   2021-05-21 08:00:07
 description: 
 image: /img/Tien.jpg
-hero_image: /img/Tien.jpg
+hero_image: /img/8.jpg
 hero_height:
 published: true
 tags: people love letter
@@ -23,11 +23,22 @@ Em nhớ chị thật sự, đã rất lâu rất lâu rồi em mới trải l�
 
 Tieen xinh đẹp, lần đầu gặp chị ở trường Littlehands, nơi mà chị với em cứ sáng rực mắt, lòng thì như lửa đốt mỗi khi nhắc lại lúc gặp mặt. Nhớ lúc đầu gặp chị, má ôi người gì mà khùng dễ sơ !!! Xì trét bà cũng cười là sao ta?? Em mến chị lắm ngay từ những buổi đầu tiên, chị là người chân thành và quan tâm em nhất (thích nhất là cùng em nói xấu á kaka). Mới bắt đầu công việc, em mệt và stress nhưng tự dung ở đâu ra bà chị luôn động viên, nói chuyện và chia sẻ với em. Giờ nhớ lại cũng đã thấy em mạnh mẽ hơn tới chừng nào. Tieen nhớ không, buổi chiều mình ngồi nói chuyện trước chung cư cạnh trường. Em đã rất bất ngờ và cảm thấy yêu thương chị nhiều hơn, người chị luôn xuất hiện vui vẻ và mạnh mẽ nhưng lại nhạy cảm, yếu lòng như vậy. Người tưởng chừng vô thường với mọi thứ làm tổn thương mình nhưng đêm về lại khóc sướt mướt. Viết ra vầy trông như nó là một buổi chiều buồn nhưng lúc đó miệng của em rộng hoắc, chị kể chuyện buồn nhưng hài :D Em nhớ 2 đứa mình đã cười và làm trò khùng điên như thế nào. Em từng chia sẻ với chị, em rất buồn khi đánh mất một người bạn và em cứ luôn tìm kiếm một người như vậy. Người bạn mà mình ở bên cạnh có thể 100% là mình và may mắn em gặp chị, chị tốt tính và bên cạnh chị vui vẻ biết bao nhiêu, mọi muộn phiền như kiểu tan hết ấy. Dù biết là muốn có bạn, bản thân em cũng phải mở lòng mà quan tâm và xây dựng mối quan hệ. Em ích kỉ quá đi, mặc định người ta hợp và mình chọn làm bạn nhưng lại vô tâm đến cảm xúc của người ta. Em xin lỗi Tieen, có lẽ em làm chị buồn hoặc có thể chị không buồn vì một đứa bạn như em nhưng chị hãy nhớ đến em một lúc nào đó nhé :3.
 
-![image](/img/hobbi.jpg)
+![image](/img/1.jpg) ![image](/img/9.jpg)
 
 Một chiều mưa tằm tả tháng 8/2020 có 2 đứa chạy xe lòng vòng tắm mưa, trời đất ơi nghĩ lại điên dã man. Chạy từ phố phường này qua phố phường kia, cười với nhau từ con đường này đến con đường kia,… Em nhớ cảm giác đó quá, Tieen ơi Sài Gòn đang vào mùa mưa nè, nhưng chị ở xa em quá rồi. Không biết chị có nhớ những kỉ niệm đó hong :3 Tắm mưa xong lại tắp vào quán súp cua làm 2 tô chà bá, rồi 2 ly trà gừng nóng tại An Miên, trời lạnh nhưng có 2 đứa ấm lòng.
 
+![image](/img/2.jpg) ![image](/img/3.jpg)
+
 Ngày cuối tuần tháng 10 – leo núi Bà Đen. Nhắc tới đây em lại ghét cái tính xấu của em ghê, lười biếng và dễ mất động lực kinh khủng. Cũng may chị còn mạnh mẽ chị Tieen ơi, nếu lúc đó chị cũng lười thì chắc bây giờ em sẽ khóc thêm 1 trận vì tiếc nữa mất. Viết tới đây rồi em đau lòng quá vì từ sau lần leo núi em không có thời gian để hẹn hò chị nữa. Ngay lúc này em ghét bản thân của mình ghê, cứ mãi như vậy để rồi chẳng có ai ở bên cạnh nữa.
+
+<figure class="image is-16by9"> 
+    <iframe class="has-ratio" 
+        src="/img/3.mp4" 
+        frameborder="0" 
+        allowfullscreen
+        >
+    </iframe>
+</figure>
 
 Khi em chán nản cuộc sống, em sẽ nhớ tới chị để được lây cái khí thế trải nghiệm của tuổi trẻ, nghe chị kể về những vùng đất chị đã đi qua và con người chị gặp và những lần chị đi du lịch một mình. Nghe để mạnh mẽ hơn, trải nghiệm hơn ngay cả khi chỉ có một mình. Tieen đâu có làm ở công ty xịn, đâu phải người nổi tiếng nhưng những gì chị thể hiện, giá trị Tieen mang lại cho những người như em hoặc ai đó (em tin là có) thật tuyệt vời. Ngưỡng mộ chị :*.
 
@@ -60,3 +71,5 @@ Biết ơn và cảm ơn cuộc đời cho em biết chị. <3 Ôm chị Tiên.
 Love,
 
 Tyna lee.
+
+
