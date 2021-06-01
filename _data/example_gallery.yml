@@ -1,22 +1,24 @@
-- title: Sở thích của mình
+- title: |-
+          **THAT MY HOBBIES** 
   images:
-    - link: img/hobbii.jpg
-      large_link: img/hobbii.jpg
+    - link: img/11.jpg
+      large_link: img/11.jpg
       alt: The alt text for the image
-      description: Mỗi lần thấy đuối quá đi, cầm quyển sổ viết ra đỡ liền.
+      description: ✍️ Mỗi lần thấy đuối quá đi, cầm quyển sổ viết ra đỡ liền 
       ratio: is-4by3
-    - link: img/hobbi.jpg
-      large_link: img/hobbi.jpg
+    - link: img/10.jpg
+      large_link: img/10.jpg
       alt: 
-      description: Cố gắng 5 ngày/quyển sách như người Do Thái thôi nào.
+      description: 📚 Cố gắng 5 ngày/quyển sách như người Do Thái thôi nào 
       ratio: is-4by3
-    - link: img/hobbiii.jpg
-      large_link: img/hobbiii.jpg
+    - link: img/12.jpg
+      large_link: img/12.jpg
       alt: The alt text for the image
-      description: Yay Du lịch muôn năm. Bạn đi được bao nhiêu nước rồi?
+      description: 🚁 Yay Du lịch muôn năm. Vùng đất mới luôn khiến cho ta hào hứng hơn 
       ratio: is-4by3
 
-- title: Nga thích ăn gì
+- title: |-
+          **LOVE THESE THINGS** 
   images:
     - link: https://via.placeholder.com/800x450
       alt: The alt text for the image
