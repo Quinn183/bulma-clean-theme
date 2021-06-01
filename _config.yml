@@ -6,7 +6,7 @@ email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: 
-url: "https://www.tyna183.github.io"
+url: "https://tyna183.github.io"
 permalink: pretty
 favicon: /favicon.png
 navicon: /img/lover.png
