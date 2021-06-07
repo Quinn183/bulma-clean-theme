@@ -2,14 +2,18 @@
     {% assign galleries=site.data.[page.gallery] %}
     {% for gallery in galleries %}
 
-    <div class="columns is-mobile is-centered">
+    <div class="columns is-centered">
             <div class="buttons">
                 <button class="button is-primary is-rounded is-medium is-hovered is-static">
                    {{ gallery.title | markdownify }}
                 </button>
              </div>
     </div>
-
+    <div class="columns is-centered">
+        <div class="column is-12">
+            <p class="title is-3 has-text-centered"> </p>
+        </div>
+    </div>
     <div class="columns is-multiline">
         {% for image in gallery.images %}
         <div class="column is-4-desktop is-6-tablet">
@@ -26,6 +30,11 @@
             </div>
         </div>
         {% endfor %}
+    </div>
+    <div class="columns is-centered">
+        <div class="column is-12">
+            <p class="title is-3 has-text-centered"> </p>
+        </div>
     </div>
     {% endfor %}
 {% endif %}

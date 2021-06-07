@@ -2,7 +2,9 @@
 layout: post
 title:  "Thư gửi chị Tiên"
 date:   2021-05-21 08:00:07
-description: 
+description: Thư gửi chị Tiên 
+summary: |- 
+    Thương gửi một người chị Nga rất yêu thương.
 image: /img/8.jpg
 hero_image: /img/Tien.jpg
 hero_height:

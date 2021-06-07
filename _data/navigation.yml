@@ -1,7 +1,3 @@
-- name: Experience
-  link: /exp/
-- name: Porfolio
-  link: /porfolio/
 - name: Blog
   link: /blog/
 - name: Reference

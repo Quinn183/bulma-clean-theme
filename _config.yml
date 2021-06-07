@@ -9,11 +9,12 @@ baseurl:
 url: "https://tyna183.github.io"
 permalink: pretty
 favicon: /favicon.png
-navicon: /img/lover.png
+navicon: /img/15.png
 gh_sponsor: 
 #hide_share_buttons: true
 theme_color: '#333333'
 #fixed_navbar: top
+home_text: Trang chủ
 
 # theme: bulma-clean-theme
 remote-theme: chrisrhymes/bulma-clean-theme
