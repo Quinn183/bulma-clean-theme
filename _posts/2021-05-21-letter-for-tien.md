@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Thư gửi chị Tiên"
+title_show: true
 date:   2021-05-21 08:00:07
 description: Thư gửi chị Tiên 
 summary: |- 

@@ -1,13 +1,44 @@
 ---
-title: LE THUY NGA
-subtitle: Về mình và những điều xung quanh🧡
-hero_image : img/hehe.png
-hero_link: /porfolio/
-hero_link_text: Find me here
+title:
+subtitle: 
+hero_image : img/17.png
+hero_darken: 
+hero_height: is-fullheight
+hero_link:
+hero_link_text: 
+hero_ava: 
 layout: page
-gallery: example_gallery
+gallery: 
 show_sidebar: true
-sponsors: bio_sponsors
 ---
 
+<div class="block">
+<div class="box">
+    <div class="block">
+    <div class="container has-text-centered">
+        <h3>VỀ MÌNH</h3>
+    </div>
+    </div>
+    <div class="block">
+    <div class="content">
 
+    <p>
+    Halo, Mình là Lê Thúy Nga. Tên tiếng anh là cô Tyna ☺️ 
+    </p>
+    <p>
+    Ngày xưa có cô bé trèo cây me
+    </p>
+    </div>
+    </div>
+</div>
+</div>
+
+<div class="block">
+<div class="box">
+    <div class="block">
+    <div class="container has-text-centered">
+        <h3>LIÊN HỆ</h3>
+    </div>
+    </div>
+</div>
+</div>
