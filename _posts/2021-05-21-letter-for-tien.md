@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: people love letter
 title:  "Thư gửi chị Tiên"
 title_show: true
 date:   2021-05-21 08:00:07
@@ -10,7 +11,6 @@ image: /img/8.jpg
 hero_image: /img/Tien.jpg
 hero_height:
 published: true
-tags: people love letter
 canonical_url: 
 ---
 
