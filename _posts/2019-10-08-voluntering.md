@@ -1,17 +1,16 @@
 ---
 layout: post
+date:   2020-02-22 08:00:07
 tags: volunteer love letter life
+hero_image: /img/26.png
+published: true
+image: /img/22.jpg
+comments: true
 title:  Tình nguyện Cambodia - 45 ngày thay đổi
 title_show: false
-date:   2020-02-22 08:00:07
 description: 45 ngày thay đổi 
 summary: |- 
     Càng đi càng thấy mình nhỏ bé, càng học càng thấy mình ngu si, cố gắng mạnh mẽ rồi thấy mình yếu đuối trong phút chốc nhưng dừng lại đâu đó trong cuộc đời để nhìn lại, NGA THẤY MÌNH LỚN HƠN.
-image: /img/22.jpg
-hero_image: /img/26.png
-hero_height: 
-published: true
-canonical_url: 
 ---
 
 ---

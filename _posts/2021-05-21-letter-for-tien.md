@@ -1,17 +1,17 @@
 ---
 layout: post
+date:   2021-05-21 08:00:07
 tags: people love letter
+published: true
+comments: true
 title:  "Thư gửi chị Tiên"
 title_show: true
-date:   2021-05-21 08:00:07
 description: Thư gửi chị Tiên 
 summary: |- 
     Thương gửi một người chị Nga rất yêu thương.
 image: /img/8.jpg
 hero_image: /img/Tien.jpg
-hero_height:
-published: true
-canonical_url: 
+
 ---
 
 ---
