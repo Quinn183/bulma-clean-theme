@@ -22,6 +22,8 @@ remote-theme: chrisrhymes/bulma-clean-theme
 paginate: 5
 paginate_path: "/blog/page:num"
 
+fb_comment_id: "525894795267037"
+
 # Disqus Comments
 disqus:
   # Leave shortname blank to disable comments site-wide.
