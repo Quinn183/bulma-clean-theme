@@ -1,2 +1,11 @@
 - name: Blog
   link: /blog/
+  dropdown:
+    - name: People
+      link: /categories/people
+    - name: Books
+      link: /categories/book
+    - name: Thinking
+      link: /categories/thinking
+    - name: Sharing
+      link: /categories/sharing

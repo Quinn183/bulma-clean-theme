@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="content">
+    {% for post in site.tags[page.tag] %}
+    <div class="column is-12">
+        {% include post-card.html %}
+    </div>
+    {% endfor %}
+</div>
+
+
+<!-- <div class="block">
+    <div class="card">
+        <header class="card-header">
+          <p class="card-header-title">
+            <a href="{{ post.url }}">{{ post.title }}</a>
+               - ({{ post.date | date_to_string }})
+          </p>
+        </header>
+        <div class="card-content">
+            <div class="content">
+                {{ post.summary | markdownify }}
+            </div>
+        </div>
+    </div>
+</div> -->
