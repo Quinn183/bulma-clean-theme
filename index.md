@@ -40,5 +40,10 @@ show_sidebar: true
         <h3>LIÊN HỆ</h3>
     </div>
     </div>
+    <div class="block">
+        <div class="column is-12">
+        {% include table-contact.html %}
+        </div>
+    </div>
 </div>
 </div>
