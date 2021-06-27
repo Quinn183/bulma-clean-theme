@@ -1,7 +1,7 @@
 ---
 layout: categories-page
-title: "People"
-tag: people
+title: "Con người"
+tag: Connguoi
 robots: noindex
 hide_hero: false
 title_show: true

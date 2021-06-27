@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2020-02-22 08:00:07
-tags: volunteer love letter life
+tags: Linhtinh
 hero_image: /img/26.png
 published: true
 image: /img/22.jpg

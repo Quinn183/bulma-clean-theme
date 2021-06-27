@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<div class="content">
+<div class="columns">
     {% for post in site.tags[page.tag] %}
     <div class="column is-12">
-        {% include post-card.html %}
+        {% include post-card-large.html %}
     </div>
     {% endfor %}
 </div>

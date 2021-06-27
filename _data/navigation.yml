@@ -1,11 +1,11 @@
 - name: Blog
   link: /blog/
   dropdown:
-    - name: People
+    - name: Con người
       link: /categories/people
-    - name: Books
+    - name: Tủ sách nhỏ
       link: /categories/book
-    - name: Thinking
+    - name: Linh tinh
       link: /categories/thinking
-    - name: Sharing
+    - name: Chia sẻ
       link: /categories/sharing

@@ -1,7 +1,7 @@
 ---
 layout: categories-page
-title: "Sharing"
-tag: sharing
+title: "Chia sẻ"
+tag: Chiase
 robots: noindex
 hide_hero: 
 title_show: true

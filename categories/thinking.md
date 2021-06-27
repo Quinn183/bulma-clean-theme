@@ -1,7 +1,7 @@
 ---
 layout: categories-page
-title: "Thinking"
-tag: thinking
+title: "Linh tinh"
+tag: Linhtinh
 robots: noindex
 hide_hero: 
 title_show: true
