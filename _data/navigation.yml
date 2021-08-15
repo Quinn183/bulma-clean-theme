@@ -2,10 +2,10 @@
   link: /blog/
   dropdown:
     - name: Con người
-      link: /categories/people
-    - name: Tủ sách nhỏ
-      link: /categories/book
-    - name: Linh tinh
-      link: /categories/thinking
+      link: /categories/Connguoi
+    - name: Trạm sách
+      link: /categories/Tramsach
+    - name: Chuyện tình yêu
+      link: /categories/lovestory
     - name: Chia sẻ
-      link: /categories/sharing
+      link: /categories/Chiase

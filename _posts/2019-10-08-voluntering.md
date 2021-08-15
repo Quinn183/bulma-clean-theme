@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2020-02-22 08:00:07
-tags: Linhtinh
+tags: Chiase
 hero_image: /img/26.png
 published: true
 image: /img/22.jpg

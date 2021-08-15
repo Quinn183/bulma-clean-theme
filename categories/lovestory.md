@@ -1,7 +1,7 @@
 ---
 layout: categories-page
-title: "Chia sẻ"
-tag: Chiase
+title: "Chuyện Tình Yêu"
+tag: lovestory
 robots: noindex
 hide_hero: 
 title_show: true

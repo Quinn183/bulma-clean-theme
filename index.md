@@ -25,7 +25,7 @@ show_sidebar: true
     Chào bạn ghé thăm <b>"Nhà Cọ"</b> của Tyna. Mình chắc rằng bạn là một quý cô xinh đẹp và duyên dáng hoặc là một chàng trai điển trai và tốt bụng. Dù bạn là ai, nếu bạn có cùng sở thích hoặc yêu thích mình hãy kết bạn với mình nhé. 
     </p>
     <p>
-    Tyna đã viết blog từ năm cấp 1. Những "chiếc bài blog" đầu tiên gói gọn trong cuốn nhật ký đến tận bây giờ. Và cứ thế mình xem nó như ngôi nhà thứ 2, nơi Tyna có thể nghỉ ngơi, suy ngâm, lắng nghe tâm hồn và gửi gắm yêu thương về thế giới bên ngoài. 
+    Tyna đã viết blog từ năm cấp 1. Những "chiếc bài blog" đầu tiên gói gọn trong cuốn nhật ký đến tận bây giờ. Và cứ thế mình xem nó như ngôi nhà thứ 2, nơi Tyna có thể nghỉ ngơi, suy ngẫm, lắng nghe tâm hồn và gửi gắm yêu thương về thế giới bên ngoài. 
     </p>
     <p>
     <b>Thương gửi,</b> 

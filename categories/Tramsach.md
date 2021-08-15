@@ -1,8 +1,8 @@
 ---
 layout: categories-page
-title: "Linh tinh"
-tag: Linhtinh
+title: "Trạm Sách"
+tag: Tramsach
 robots: noindex
-hide_hero: 
+hide_hero: false
 title_show: true
 ---
