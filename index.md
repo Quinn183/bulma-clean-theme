@@ -16,34 +16,25 @@ show_sidebar: true
 <div class="box">
     <div class="block">
     <div class="container has-text-centered">
-        <h3>VỀ MÌNH</h3>
+        <h3>Xin chào!</h3>
     </div>
     </div>
     <div class="block">
-    <div class="content">
-
+    <div class="content has-text-black-bis">
     <p>
-    Halo, Mình là Lê Thúy Nga. Tên tiếng anh là cô Tyna ☺️ 
+    Chào bạn ghé thăm <b>"Nhà Cọ"</b> của Tyna. Mình chắc rằng bạn là một quý cô xinh đẹp và duyên dáng hoặc là một chàng trai điển trai và tốt bụng. Dù bạn là ai, nếu bạn có cùng sở thích hoặc yêu thích mình hãy kết bạn với mình nhé. 
     </p>
     <p>
-    Ngày xưa có cô bé trèo cây me
+    Tyna đã viết blog từ năm cấp 1. Những "chiếc bài blog" đầu tiên gói gọn trong cuốn nhật ký đến tận bây giờ. Và cứ thế mình xem nó như ngôi nhà thứ 2, nơi Tyna có thể nghỉ ngơi, suy ngâm, lắng nghe tâm hồn và gửi gắm yêu thương về thế giới bên ngoài. 
+    </p>
+    <p>
+    <b>Thương gửi,</b> 
+    </p>
+    <p>
+    <b>Tyna Lee</b>
     </p>
     </div>
     </div>
 </div>
 </div>
 
-<div class="block">
-<div class="box">
-    <div class="block">
-    <div class="container has-text-centered">
-        <h3>LIÊN HỆ</h3>
-    </div>
-    </div>
-    <div class="block">
-        <div class="column is-12">
-        {% include table-contact.html %}
-        </div>
-    </div>
-</div>
-</div>
