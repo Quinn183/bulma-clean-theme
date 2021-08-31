@@ -59,9 +59,9 @@ Tyna lee.
 
 </div>
 
-<figure class="image is-4by3"> 
+<figure class="image is-16by9"> 
     <iframe class="has-ratio" 
-        src="https://youtu.be/khFK5snLHtA" 
+        src="https://www.youtube.com/embed/khFK5snLHtA" 
         frameborder="0" 
         allowfullscreen
         >
