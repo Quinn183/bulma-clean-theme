@@ -69,7 +69,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "Nga Le"
+      author: "Tyna Lee"
       layout: post
       image: https://via.placeholder.com/1200x800
       show_sidebar: true
