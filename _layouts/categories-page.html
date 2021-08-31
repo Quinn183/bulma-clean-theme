@@ -2,11 +2,11 @@
 layout: default
 ---
 <div class="columns">
-    {% for post in site.tags[page.tag] %}
     <div class="column is-12">
+    {% for post in site.tags[page.tag] %}
         {% include post-card-large.html %}
-    </div>
     {% endfor %}
+</div>
 </div>
 
 
