@@ -4,6 +4,6 @@ title: "Chia sẻ"
 tag: Chiase
 robots: noindex
 hide_hero: 
-title_show: true
-hero_image: /img/26.png 
+title_show: false
+hero_image: /img/chiase.png 
 ---

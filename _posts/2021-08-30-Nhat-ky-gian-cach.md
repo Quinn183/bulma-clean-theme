@@ -10,12 +10,12 @@ description: Một tips khiến bạn làm việc hiệu quả hơn trong mùa d
 summary: |- 
     Ban đầu làm việc ở nhà với Tyna là sự thoải mái trong trang phục,sự ngồi đâu cũng được, thi thoảng chill với những ly cà phê ngẫu hứng và góc phòng quen thuộc. Tuy nhiên, việc ngồi ở nhà đồng thời sẽ khiến cho bản thân dễ bị xao nhãng bởi “chiếc giường thân yêu” hoặc bộ phim đang xem dở, v.v. Công việc của mình từ đó mà không đạt hiệu quả. Vậy Tyna đã làm thế nào để khắc phục? 
 image: /img/nkgc1.jpg
-hero_image: /img/Tien.jpg
+hero_image: /img/nkgc2.png
 
 ---
 
 ---
-<div class="content has-text-centered">
+<div class="content has-text-centered is-size-4">
 <b>MỘT TRANG WEB KHIẾN BẠN CÓ THỂ HỌC TẬP CỰC KÌ HIỆU QUẢ</b>
 </div>
 
